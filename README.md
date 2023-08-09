@@ -22,7 +22,6 @@ source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 3. Install Required Libraries
 In the directory containing the script, run:
 
-bash
 ```
 pip install pandas tabula-py PyPDF2
 ```
